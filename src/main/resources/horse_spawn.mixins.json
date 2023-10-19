@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.pancake.horse_spawn.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "HorseSpawn.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
